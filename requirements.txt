@@ -22,7 +22,7 @@ pluggy==0.13.1
 pre-commit==2.4.0
 py==1.8.1
 pyjokes==0.6.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyparsing==2.4.7
 pyPdf==1.13
 PyPDF2==1.26.0
